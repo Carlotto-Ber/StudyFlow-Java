@@ -1,0 +1,1 @@
+Antes de iniciar o Protitpo StudyFlow, inicialize a classe SEED com o banco de dados conectado para popular o banco de dados.
